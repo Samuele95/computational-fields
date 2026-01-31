@@ -13,7 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="https://huggingface.co/spaces/Sams995/computational-fields"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Try%20It%20Live-Hugging%20Face%20Spaces-blue?style=for-the-badge" alt="Try It Live on Hugging Face Spaces"></a>
+</p>
+
+<p align="center">
   <a href="https://samuele95.github.io/computational-fields/">Documentation</a> &bull;
+  <a href="https://huggingface.co/spaces/Sams995/computational-fields">Live Demo</a> &bull;
   <a href="#demos">Demos</a> &bull;
   <a href="#quick-start">Quick Start</a> &bull;
   <a href="#architecture">Architecture</a>
