@@ -98,4 +98,4 @@ This is the core thesis of aggregate computing: macro-level behaviour emerges fr
 
 ## Try It
 
-Select **Crowd Monitoring** from the demo dropdown in the [simulator](/simulator).
+Select **Crowd Monitoring** from the demo dropdown in the [simulator](/simulator), or try it on the [live deployment](https://huggingface.co/spaces/Sams995/computational-fields).

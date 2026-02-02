@@ -70,4 +70,4 @@ The sparse leader pattern is used as a building block for:
 
 ## Try It
 
-Select **Sparse Leaders** from the demo dropdown in the [simulator](/simulator).
+Select **Sparse Leaders** from the demo dropdown in the [simulator](/simulator), or try it on the [live deployment](https://huggingface.co/spaces/Sams995/computational-fields).

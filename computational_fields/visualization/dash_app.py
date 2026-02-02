@@ -1115,7 +1115,7 @@ def _build_figure(
 
 
 # ═══════════════════════════════════════════════════════════════════════
-#  Server-side state (single user, suitable for thesis demo)
+#  Server-side state (single user)
 # ═══════════════════════════════════════════════════════════════════════
 
 _engine: SimulationEngine | None = None
@@ -1597,7 +1597,7 @@ def _about_layout():
     return html.Div([
         html.H1("About"),
         html.P([
-            "This interactive simulator accompanies a thesis on ",
+            "This interactive simulator demonstrates ",
             html.Strong("Computational Fields"),
             " and ",
             html.Strong("Aggregate Computing"),
@@ -1618,11 +1618,6 @@ def _about_layout():
             html.Li(html.A(
                 "Documentation (GitHub Pages)",
                 href="https://samuele95.github.io/computational-fields/",
-                target="_blank",
-            )),
-            html.Li(html.A(
-                "UNICAM — University of Camerino",
-                href="https://www.unicam.it",
                 target="_blank",
             )),
         ]),

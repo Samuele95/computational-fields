@@ -63,4 +63,4 @@ This demo is a clear example of **functional composition** in aggregate computin
 
 ## Try It
 
-Select **Channel** from the demo dropdown in the [simulator](/simulator).
+Select **Channel** from the demo dropdown in the [simulator](/simulator), or try it on the [live deployment](https://huggingface.co/spaces/Sams995/computational-fields).

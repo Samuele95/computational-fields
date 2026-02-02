@@ -70,4 +70,4 @@ Try removing devices (click "Remove Random Device") after the field has converge
 
 ## Try It
 
-Select **Gradient** from the demo dropdown in the [simulator](/simulator).
+Select **Gradient** from the demo dropdown in the [simulator](/simulator), or try it on the [live deployment](https://huggingface.co/spaces/Sams995/computational-fields).

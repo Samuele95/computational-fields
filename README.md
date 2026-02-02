@@ -2,14 +2,12 @@
   <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/framework-Dash%20%2F%20Plotly-7c5cfc?style=flat-square&logo=plotly&logoColor=white" alt="Dash / Plotly">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License">
-  <img src="https://img.shields.io/badge/status-thesis%20project-orange?style=flat-square" alt="Status">
 </p>
 
 <h1 align="center">Computational Fields Simulator</h1>
 
 <p align="center">
-  <strong>An interactive simulator for aggregate computing and self-organising programs</strong><br>
-  Built as part of a Computer Science thesis at the <a href="https://www.unicam.it">University of Camerino</a>
+  <strong>An interactive simulator for aggregate computing and self-organising programs</strong>
 </p>
 
 <p align="center">
@@ -194,12 +192,9 @@ The app is pre-configured for deployment on [Hugging Face Spaces](https://huggin
 
 ## License
 
-This project is developed as part of a Computer Science thesis at the University of Camerino.
-
 MIT License -- see [LICENSE](LICENSE) for details.
 
 ## Acknowledgements
 
-- [University of Camerino](https://www.unicam.it) -- Computer Science Department
 - The [aggregate computing](https://doi.org/10.1109/MC.2015.261) research community
 - [Dash](https://dash.plotly.com/) and [Plotly](https://plotly.com/) for interactive visualisation

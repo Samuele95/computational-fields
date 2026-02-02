@@ -2,6 +2,8 @@
 
 The simulator includes six pre-built demonstrations that showcase the building blocks and their compositions.
 
+> **Try it online** — all demos are available on the [live deployment](https://huggingface.co/spaces/Sams995/computational-fields). No installation required.
+
 ## Welcome Page
 
 ![Welcome Page](../assets/screenshots/welcome.png)

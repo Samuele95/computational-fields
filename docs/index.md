@@ -1,6 +1,8 @@
 # Computational Fields Simulator
 
-An interactive simulator for **aggregate computing** and **self-organising programs**, built as part of a Computer Science thesis at the [University of Camerino](https://www.unicam.it).
+An interactive simulator for **aggregate computing** and **self-organising programs**.
+
+> **Try it live** — the simulator is deployed and running at [huggingface.co/spaces/Sams995/computational-fields](https://huggingface.co/spaces/Sams995/computational-fields). No installation required.
 
 ---
 

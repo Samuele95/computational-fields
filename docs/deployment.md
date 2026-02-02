@@ -30,9 +30,11 @@ docker run -p 8080:8080 -e PORT=8080 computational-fields
 
 ## Hugging Face Spaces
 
-The project is pre-configured for deployment on [Hugging Face Spaces](https://huggingface.co/spaces) using the Docker SDK.
+The project is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Sams995/computational-fields) using the Docker SDK.
 
-### Steps
+> **Try it now** -- the simulator is running live at [huggingface.co/spaces/Sams995/computational-fields](https://huggingface.co/spaces/Sams995/computational-fields). No installation required.
+
+### Deploying Your Own Instance
 
 1. Create a new Space on Hugging Face with **Docker** SDK
 2. Push the repository:
