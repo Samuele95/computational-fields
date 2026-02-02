@@ -1,6 +1,6 @@
 ---
 title: Computational Fields Simulator
-emoji: "\U0001F310"
+emoji: 🌐
 colorFrom: indigo
 colorTo: purple
 sdk: docker
