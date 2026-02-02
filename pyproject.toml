@@ -11,13 +11,9 @@ dependencies = [
     "dash>=2.15",
 ]
 
-[project.optional-dependencies.streamlit]
-streamlit = ["streamlit>=1.33"]
-
 [project.optional-dependencies]
-dev = [
-    "pytest>=7.0",
-]
+streamlit = ["streamlit>=1.33"]
+dev = ["pytest>=7.0"]
 
 [build-system]
 requires = ["setuptools>=68.0"]
