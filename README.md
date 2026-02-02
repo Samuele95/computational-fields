@@ -1,3 +1,13 @@
+---
+title: Computational Fields Simulator
+emoji: "\U0001F310"
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/framework-Dash%20%2F%20Plotly-7c5cfc?style=flat-square&logo=plotly&logoColor=white" alt="Dash / Plotly">
